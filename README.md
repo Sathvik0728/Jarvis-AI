@@ -103,7 +103,6 @@ Jarvis-AI-Assistant/
 ├── commands.py
 ├── requirements.txt
 ├── README.md
-└── .gitignore
 ```
 
 ---
